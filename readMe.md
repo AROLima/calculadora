@@ -1,4 +1,4 @@
-# EN
+## EN
 
 # 🧮 Simple Calculator
 This is a basic web calculator that allows for addition, subtraction, multiplication, and division operations. It was developed as part of a learning project.
@@ -26,9 +26,9 @@ This project was developed by [https://github.com/AROLima].
 ## 📜 License
 This project is open source and is available under the MIT License.
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ #
+## -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# PT-br
+## PT-BR
 
 # 🧮 Calculadora Simples
 
