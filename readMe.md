@@ -26,7 +26,7 @@ This project was developed by [https://github.com/AROLima].
 ## 📜 License
 This project is open source and is available under the MIT License.
 
-## -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## PT-BR
 
